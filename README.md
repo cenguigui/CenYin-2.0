@@ -12,7 +12,7 @@ Android 音乐播放器 · 个性装扮 · 沉浸歌词 · 本地歌单
 [![版本](https://img.shields.io/badge/安装包-v2.0.0-8D72C5)](https://github.com/cenguigui/CenYin-2.0/releases/tag/v2.0.0)
 [![下载](https://img.shields.io/github/downloads/cenguigui/CenYin-2.0/total?label=下载&color=5C8D89)](https://github.com/cenguigui/CenYin-2.0/releases)
 
-**[国内加速下载 · 手机推荐](https://ghfast.top/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-arm64-v8a.apk)**　｜　**[GitHub 下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-arm64-v8a.apk)**　｜　[使用说明](docs/USAGE.md)
+**[国内加速下载 · 手机推荐](https://v4.gh-proxy.org/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-arm64-v8a.apk)**　｜　**[GitHub 下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-arm64-v8a.apk)**　｜　[使用说明](docs/USAGE.md)
 
 </div>
 
@@ -42,11 +42,11 @@ Android 音乐播放器 · 个性装扮 · 沉浸歌词 · 本地歌单
 
 | 安装包 | 适用设备 | 大小 | 国内加速 | GitHub 原始下载 |
 | --- | --- | ---: | --- | --- |
-| **ARM64（推荐）** | 大多数 Android 手机 | 185.9 MiB | [线路一](https://ghfast.top/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-arm64-v8a.apk) · [线路二](https://ghproxy.net/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-arm64-v8a.apk) | [下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-arm64-v8a.apk) |
-| ARMv7 | 较旧的 32 位手机 | 183.7 MiB | [线路一](https://ghfast.top/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-armeabi-v7a.apk) · [线路二](https://ghproxy.net/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-armeabi-v7a.apk) | [下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-armeabi-v7a.apk) |
-| x86_64 | x86_64 Android 模拟器 | 187.4 MiB | [线路一](https://ghfast.top/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-x86_64.apk) · [线路二](https://ghproxy.net/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-x86_64.apk) | [下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-x86_64.apk) |
+| **ARM64（推荐）** | 大多数 Android 手机 | 185.9 MiB | [IPv4 优选](https://v4.gh-proxy.org/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-arm64-v8a.apk) · [主站备用](https://gh-proxy.org/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-arm64-v8a.apk) | [下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-arm64-v8a.apk) |
+| ARMv7 | 较旧的 32 位手机 | 183.7 MiB | [IPv4 优选](https://v4.gh-proxy.org/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-armeabi-v7a.apk) · [主站备用](https://gh-proxy.org/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-armeabi-v7a.apk) | [下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-armeabi-v7a.apk) |
+| x86_64 | x86_64 Android 模拟器 | 187.4 MiB | [IPv4 优选](https://v4.gh-proxy.org/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-x86_64.apk) · [主站备用](https://gh-proxy.org/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-x86_64.apk) | [下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-x86_64.apk) |
 
-加速链接由第三方公共代理提供，线路速度和可用性随网络变化；遇到失败可切换线路或使用 GitHub 原始下载。安装包校验值见 [SHA256SUMS.txt](SHA256SUMS.txt)。
+下载入口已于 2026-10-17 更新为 GH-Proxy 多线路：默认使用 IPv4 优选，另提供主站、IPv4/IPv6、Fastly 和 AxisNow 备用。[查看全部下载线路](docs/DOWNLOAD.md)。这些是第三方公共代理，不代表所有地区、运营商或浏览器均可访问；下载失败时请切换节点，也可复制地址到手机浏览器打开。安装包校验值见 [SHA256SUMS.txt](SHA256SUMS.txt)。
 
 下载 APK 后在手机中打开，根据系统提示允许当前浏览器或文件管理器安装应用。更新时直接覆盖安装；更换设备或卸载前，先导出需要保留的本地歌单。
 
