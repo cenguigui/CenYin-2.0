@@ -9,16 +9,16 @@
 Android 音乐播放器 · 个性装扮 · 沉浸歌词 · 本地歌单
 
 [![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)](https://github.com/cenguigui/CenYin-2.0/releases/latest)
-[![版本](https://img.shields.io/badge/安装包-v1.3.3-8D72C5)](https://github.com/cenguigui/CenYin-2.0/releases/tag/v1.3.3)
+[![版本](https://img.shields.io/badge/安装包-v2.0.0-8D72C5)](https://github.com/cenguigui/CenYin-2.0/releases/tag/v2.0.0)
 [![下载](https://img.shields.io/github/downloads/cenguigui/CenYin-2.0/total?label=下载&color=5C8D89)](https://github.com/cenguigui/CenYin-2.0/releases)
 
-**[国内加速下载 · 手机推荐](https://ghfast.top/https://github.com/cenguigui/CenYin-2.0/releases/download/v1.3.3/CenYin-1.3.3-arm64-v8a.apk)**　｜　**[GitHub 下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v1.3.3/CenYin-1.3.3-arm64-v8a.apk)**　｜　[使用说明](docs/USAGE.md)
+**[国内加速下载 · 手机推荐](https://ghfast.top/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-arm64-v8a.apk)**　｜　**[GitHub 下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-arm64-v8a.apk)**　｜　[使用说明](docs/USAGE.md)
 
 </div>
 
 笒音2.0 是一款面向 Android 的音乐应用，将发现音乐、播放、歌词、主题装扮和本地歌单放在一起。这个仓库提供安装包发布、中文说明和应用演示；应用源代码不公开。
 
-> 项目名称为「笒音2.0」，本次发布的 Android 安装包版本为 **1.3.3**。
+> 项目名称为「笒音2.0」，本次发布的 Android 安装包版本为 **2.0.0**。
 
 ## 界面演示
 
@@ -42,9 +42,9 @@ Android 音乐播放器 · 个性装扮 · 沉浸歌词 · 本地歌单
 
 | 安装包 | 适用设备 | 大小 | 国内加速 | GitHub 原始下载 |
 | --- | --- | ---: | --- | --- |
-| **ARM64（推荐）** | 大多数 Android 手机 | 184.7 MiB | [线路一](https://ghfast.top/https://github.com/cenguigui/CenYin-2.0/releases/download/v1.3.3/CenYin-1.3.3-arm64-v8a.apk) · [线路二](https://ghproxy.net/https://github.com/cenguigui/CenYin-2.0/releases/download/v1.3.3/CenYin-1.3.3-arm64-v8a.apk) | [下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v1.3.3/CenYin-1.3.3-arm64-v8a.apk) |
-| ARMv7 | 较旧的 32 位手机 | 182.5 MiB | [线路一](https://ghfast.top/https://github.com/cenguigui/CenYin-2.0/releases/download/v1.3.3/CenYin-1.3.3-armeabi-v7a.apk) · [线路二](https://ghproxy.net/https://github.com/cenguigui/CenYin-2.0/releases/download/v1.3.3/CenYin-1.3.3-armeabi-v7a.apk) | [下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v1.3.3/CenYin-1.3.3-armeabi-v7a.apk) |
-| x86_64 | x86_64 Android 模拟器 | 186.1 MiB | [线路一](https://ghfast.top/https://github.com/cenguigui/CenYin-2.0/releases/download/v1.3.3/CenYin-1.3.3-x86_64.apk) · [线路二](https://ghproxy.net/https://github.com/cenguigui/CenYin-2.0/releases/download/v1.3.3/CenYin-1.3.3-x86_64.apk) | [下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v1.3.3/CenYin-1.3.3-x86_64.apk) |
+| **ARM64（推荐）** | 大多数 Android 手机 | 185.9 MiB | [线路一](https://ghfast.top/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-arm64-v8a.apk) · [线路二](https://ghproxy.net/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-arm64-v8a.apk) | [下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-arm64-v8a.apk) |
+| ARMv7 | 较旧的 32 位手机 | 183.7 MiB | [线路一](https://ghfast.top/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-armeabi-v7a.apk) · [线路二](https://ghproxy.net/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-armeabi-v7a.apk) | [下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-armeabi-v7a.apk) |
+| x86_64 | x86_64 Android 模拟器 | 187.4 MiB | [线路一](https://ghfast.top/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-x86_64.apk) · [线路二](https://ghproxy.net/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-x86_64.apk) | [下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.0/CenYin-2.0.0-x86_64.apk) |
 
 加速链接由第三方公共代理提供，线路速度和可用性随网络变化；遇到失败可切换线路或使用 GitHub 原始下载。安装包校验值见 [SHA256SUMS.txt](SHA256SUMS.txt)。
 
@@ -64,6 +64,8 @@ Android 音乐播放器 · 个性装扮 · 沉浸歌词 · 本地歌单
 音质档位、评论、在线曲目和公开歌单内容以服务实际返回为准；某些音效的可用范围取决于 Android 设备。跨平台歌单导入会匹配歌曲版本，保存前可以核对。
 
 ## 本次更新
+
+- 全新浅紫猫耳唱片图标，统一桌面图标、安卓主题图标与启动画面。
 
 - 循环按钮单击切换列表循环、单曲循环、随机播放，并显示中文提示。
 - 音质选项补充当前歌曲各档文件大小，播放页右上角可分享当前歌曲。
