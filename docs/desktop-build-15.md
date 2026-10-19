@@ -16,7 +16,7 @@
 
 - iOS：`CenYin-2.0.1+15-ios-arm64-unsigned.ipa`，iOS 15 及以上，真机 Release，需自行签名。
 - Mac：`CenYin-2.0.1+15-macos-universal.dmg`，macOS 12 及以上，Apple silicon/Intel，测试临时签名，未通过 Developer ID 公证。
-- Windows：本次不含 EXE；在完整私有源码的 Windows 电脑中双击 `build-windows.cmd` 生成安装器/ZIP，尚待 Windows 本机运行验证。
+- Windows：已补充[安装版 EXE、便携 ZIP 与校验值](https://github.com/cenguigui/CenYin-2.0/releases/tag/v2.0.1-windows.15)，Windows 10 1809 / Windows 11 x64；[本机更新与验证](windows-build-15.md)。
 
 实测包括 Mac 原生在线/下载 MP3、FLAC、暂停/继续/进度跳转；Mac 与独立 iOS 模拟器原生均衡器输出和 37 秒暂停恢复；Mac 完全关闭后 30 首队列及 1:42 进度自动恢复。组件测试不代表 Android 真机帧率或 Windows 系统媒体控件实机验收。
 

@@ -6,6 +6,17 @@ Mac 通用版 DMG 与 iOS 构建 15：[统一下载页面](https://github.com/ce
 
 以下为用户提供的 GH-Proxy 公共加速入口。建议先尝试 IPv4 优选，无法连接时切换主站、双栈或其他节点。它们属于第三方服务，可用性受地区、运营商、网络类型和浏览器影响，不承诺所有网络均可用。
 
+## Windows x64 · 构建 15
+
+Windows 10 1809 / Windows 11，64 位。便携版完整解压后运行 `CenYin.exe`；安装版无需管理员权限。
+
+| 文件 | GitHub 下载 | 国内备用 |
+| --- | --- | --- |
+| 安装版 EXE | [下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.1-windows.15/CenYin-2.0.1%2B15-windows-x64-setup.exe) | [IPv4 线路](https://v4.gh-proxy.org/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.1-windows.15/CenYin-2.0.1%2B15-windows-x64-setup.exe) |
+| 便携 ZIP | [下载](https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.1-windows.15/CenYin-2.0.1%2B15-windows-x64-portable.zip) | [IPv4 线路](https://v4.gh-proxy.org/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.1-windows.15/CenYin-2.0.1%2B15-windows-x64-portable.zip) |
+
+[更新与安装说明](windows-build-15.md) · [SHA-256 校验文件](https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.1-windows.15/SHA256SUMS-windows.txt)。此处国内线路沿用用户提供的公共代理，本次未将其视为下载成功的验证。
+
 ## 手机推荐：ARM64
 
 - **[Cloudflare 优选 IPv4](https://v4.gh-proxy.org/https://github.com/cenguigui/CenYin-2.0/releases/download/v2.0.1/CenYin-2.0.1-arm64-v8a.apk)**：推荐先试，仅 IPv4。

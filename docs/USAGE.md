@@ -48,3 +48,13 @@
 ## 校验安装包
 
 将下载文件的 SHA-256 与项目根目录的 `SHA256SUMS.txt` 对照。Windows 可在 PowerShell 执行 `Get-FileHash -Algorithm SHA256 文件路径`；macOS/Linux 可使用系统的 SHA-256 校验工具。
+
+## Windows 桌面版
+
+从 [Windows Release](https://github.com/cenguigui/CenYin-2.0/releases/tag/v2.0.1-windows.15) 下载安装器或便携 ZIP。安装器安装到当前用户目录；ZIP 必须完整解压，保留全部 DLL 和 data。
+
+- 点击底部封面或歌名可展开、再次点击收起播放页。
+- 播放页右上角“播放器样式”打开选择面板，选择后直接预览。
+- 点击音质打开浮层，再次点击或点击外部关闭。界面显示当前歌曲实际可用音质和大小。
+- 空格播放/暂停，Ctrl+左右箭头切歌，Esc 返回，Ctrl+Shift+M 切换迷你小窗。
+- 今日心动支持鼠标/触控横向拖动，也可使用翻页按钮。
