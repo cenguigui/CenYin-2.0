@@ -6,7 +6,7 @@
 
 ### 让每一首喜欢的歌，都有自己的模样。
 
-Android / iOS 音乐播放器 · 个性装扮 · 沉浸歌词 · 本地歌单
+Android / iOS / macOS 音乐播放器 · 个性装扮 · 沉浸歌词 · 本地歌单
 
 [![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)](https://github.com/cenguigui/CenYin-2.0/releases/latest)
 [![版本](https://img.shields.io/badge/安装包-v2.0.1-8D72C5)](https://github.com/cenguigui/CenYin-2.0/releases/tag/v2.0.1)
@@ -16,15 +16,23 @@ Android / iOS 音乐播放器 · 个性装扮 · 沉浸歌词 · 本地歌单
 
 </div>
 
-笒音2.0 是一款支持 Android 与 iOS 的音乐应用，将发现音乐、播放、歌词、主题装扮和本地歌单放在一起。这个仓库提供安装包发布、中文说明和应用演示；应用源代码不公开。
+笒音2.0 是一款支持 Android、iOS 与 macOS 的音乐应用，将发现音乐、播放、歌词、主题装扮和本地歌单放在一起。这个仓库提供安装包发布、中文说明和应用演示；应用源代码不公开。
 
 > 项目名称为「笒音2.0」，本次发布的 Android 安装包版本为 **2.0.1**。
 
 ## iOS 版
 
-**[下载 iOS 未签名 IPA · 构建 14](https://github.com/cenguigui/CenYin-2.0/releases/tag/v2.0.1-ios.14)** · [更新与安装说明](docs/ios-build-14.md) · [19 款播放器截图](docs/screenshots/ios-player-styles/README.md)
+**[下载 iOS 未签名 IPA · 构建 15](https://github.com/cenguigui/CenYin-2.0/releases/tag/v2.0.1-desktop.15)** · [更新与安装说明](docs/desktop-build-15.md) · [19 款播放器截图](docs/screenshots/ios-player-styles/README.md) · [三款圆心复核](docs/screenshots/ios-style-alignment/README.md)
 
 iOS 15.0 及以上，arm64 真机 Release，需要自行签名安装。
+
+## Mac、桌面与平板
+
+**[下载 Mac 通用版 DMG · 构建 15](https://github.com/cenguigui/CenYin-2.0/releases/tag/v2.0.1-desktop.15)** · [桌面布局实测](docs/screenshots/desktop/README.md) · [构建说明](docs/desktop-build-15.md)
+
+macOS 12 及以上，支持 Apple silicon 与 Intel。测试版使用临时签名，尚未做 Apple Developer ID 公证。宽屏平板自动使用左侧菜单布局，竖屏保留手机布局。所有端支持关闭后续播，重新获取在线地址；iOS/Mac 新增原生均衡器。
+
+Windows 代码已适配，当前发布尚未包含 EXE；可在完整私有源码中双击 `build-windows.cmd` 本机生成安装器和便携 ZIP。公开仓库继续提供安装包、说明和截图。
 
 ## 界面演示
 
