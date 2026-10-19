@@ -22,7 +22,7 @@ Android / iOS 音乐播放器 · 个性装扮 · 沉浸歌词 · 本地歌单
 
 ## iOS 版
 
-**[下载 iOS 未签名 IPA · 构建 12](https://github.com/cenguigui/CenYin-2.0/releases/tag/v2.0.1-ios.12)** · [更新与安装说明](docs/ios-build-12.md) · [19 款播放器截图](docs/screenshots/ios-player-styles/README.md)
+**[下载 iOS 未签名 IPA · 构建 14](https://github.com/cenguigui/CenYin-2.0/releases/tag/v2.0.1-ios.14)** · [更新与安装说明](docs/ios-build-14.md) · [19 款播放器截图](docs/screenshots/ios-player-styles/README.md)
 
 iOS 15.0 及以上，arm64 真机 Release，需要自行签名安装。
 
