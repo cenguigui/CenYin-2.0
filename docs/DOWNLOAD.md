@@ -39,3 +39,8 @@
 加速线路沿用用户提供的 GH-Proxy 节点；此前版本曾检查这些线路，本次不将旧版线路测试结果当作新版下载成功的证明。无法连接时请切换节点或 GitHub 原始下载。
 
 应用源码继续保存在私有仓库，本公开仓库只有说明与演示资料。
+
+
+## iOS · 构建 12
+
+[GitHub 下载未签名 IPA](https://github.com/cenguigui/CenYin-2.0/releases/tag/v2.0.1-ios.12)。iOS 15.0 及以上，arm64；需自行签名安装。校验值见同页 SHA256SUMS-ios.txt；[更新说明](ios-build-12.md)。

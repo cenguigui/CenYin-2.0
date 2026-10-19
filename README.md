@@ -6,7 +6,7 @@
 
 ### 让每一首喜欢的歌，都有自己的模样。
 
-Android 音乐播放器 · 个性装扮 · 沉浸歌词 · 本地歌单
+Android / iOS 音乐播放器 · 个性装扮 · 沉浸歌词 · 本地歌单
 
 [![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)](https://github.com/cenguigui/CenYin-2.0/releases/latest)
 [![版本](https://img.shields.io/badge/安装包-v2.0.1-8D72C5)](https://github.com/cenguigui/CenYin-2.0/releases/tag/v2.0.1)
@@ -16,9 +16,15 @@ Android 音乐播放器 · 个性装扮 · 沉浸歌词 · 本地歌单
 
 </div>
 
-笒音2.0 是一款面向 Android 的音乐应用，将发现音乐、播放、歌词、主题装扮和本地歌单放在一起。这个仓库提供安装包发布、中文说明和应用演示；应用源代码不公开。
+笒音2.0 是一款支持 Android 与 iOS 的音乐应用，将发现音乐、播放、歌词、主题装扮和本地歌单放在一起。这个仓库提供安装包发布、中文说明和应用演示；应用源代码不公开。
 
 > 项目名称为「笒音2.0」，本次发布的 Android 安装包版本为 **2.0.1**。
+
+## iOS 版
+
+**[下载 iOS 未签名 IPA · 构建 12](https://github.com/cenguigui/CenYin-2.0/releases/tag/v2.0.1-ios.12)** · [更新与安装说明](docs/ios-build-12.md) · [19 款播放器截图](docs/screenshots/ios-player-styles/README.md)
+
+iOS 15.0 及以上，arm64 真机 Release，需要自行签名安装。
 
 ## 界面演示
 
@@ -84,3 +90,4 @@ Android 音乐播放器 · 个性装扮 · 沉浸歌词 · 本地歌单
 请通过 [Issues](https://github.com/cenguigui/CenYin-2.0/issues/new) 反馈，附上手机型号、Android 版本、安装包版本、复现步骤及截图。提交截图前请检查是否包含个人信息。
 
 本仓库只维护发布说明、演示图片和 Release 安装包；GitHub 自动生成的 “Source code” 压缩包也仅包含这些公开资料。第三方组件及素材说明见 [NOTICE.md](NOTICE.md)。
+
